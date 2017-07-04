@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopUpTest</string>
+    <string name="is_open_floating_win">是否开启点按解密</string>
+    <string name="hello_world">hello world</string>
+    <string name="tip">解密后</string>
+
+</resources>
